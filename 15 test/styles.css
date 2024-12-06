@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  h1, h5 {
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .nav-link {
+    color: #555;
+    margin-left: 15px;
+  }
+  
+  .nav-link:hover {
+    color: #007bff;
+  }
+  
+  .basket-item h5 {
+    font-weight: bold;
+  }
+  
+  .basket-item small {
+    font-size: 0.9rem;
+  }
+  
+  .list-group-item {
+    font-size: 0.95rem;
+  }
+  
+  button.btn-success {
+    background-color: #4CAF50;
+    border: none;
+  }
+  
+  button.btn-success:hover {
+    background-color: #45a049;
+  }
+  
